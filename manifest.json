@@ -1,9 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Crossword Pencil Toggle",
+  "name": "Crossword Pencil",
   "version": "1.0",
-
   "description": "Toggle NYT crossword pencil mode using Shift.",
+  "developer": {
+    "name": "Max Gilmour",
+    "url": "https://github.com/maxgmr/crosswordpencil"
+  },
 
   "icons": {
     "32": "icons/icon.svg",
@@ -13,7 +16,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "crosswordpenciltoggle@mozilla.org",
+      "id": "crosswordpencil@maxgmr.ca",
       "data_collection_permissions": {
         "required": ["none"]
       }
