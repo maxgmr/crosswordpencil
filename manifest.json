@@ -3,7 +3,7 @@
   "name": "Crossword Pencil Toggle",
   "version": "1.0",
 
-  "description": "Toggle NYT crossword pencil mode.",
+  "description": "Toggle NYT crossword pencil mode using Shift.",
 
   "icons": {
     "32": "icons/icon.svg",
